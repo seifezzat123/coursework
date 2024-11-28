@@ -79,4 +79,3 @@ def main(): #  Provides a user interface to encode or decode messages.
 if __name__ == "__main__": # the main() function is executed only when the script is run directly.
 
     main()
-seif = 0
